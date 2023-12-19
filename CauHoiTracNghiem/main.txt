@@ -1,0 +1,17 @@
+Câu 1:
+-Lớp là một khuôn mẫu hoặc mô hình chung
+-Đối tượng là một đối tượng cụ thể từ khuân mẫu đó
+
+Câu 2:
+-Khởi tạo thuộc tính 
+-Truyền tham số
+-Thực hiện các công việc khởi tạo
+
+Câu 3:
+C. Định nghĩa lớp, sau đó khởi tạo đối tượng.
+
+Câu 4: 
+A. self
+
+Câu 5: 
+A. Lớp
